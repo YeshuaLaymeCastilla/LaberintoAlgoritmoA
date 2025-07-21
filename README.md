@@ -31,6 +31,9 @@ pip install pygame
 
 # Características
 Resolución de laberintos ortogonales (sin diagonales).
+
 Heurística Manhattan (admisible y eficiente).
+
 Estructura clara y modular.
+
 Código listo para extensión futura con IA o visualización.
